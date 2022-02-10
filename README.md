@@ -18,7 +18,7 @@
   <img align="center" alt="Babi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Babi-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Babi-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="right" alt="Babi-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/941148961350250566/941148961861927002/941149148210663474">
+  <img align="right" alt="Babi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941148961861927002/941149147950641152/gif-babi.gif">
 </div>
 
  ##
